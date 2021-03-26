@@ -1,4 +1,4 @@
-import lineOffset from "../index";
+import lineOffset from "lineOffset";
 import { ICoods } from "../types";
 
 window.onload = function () {

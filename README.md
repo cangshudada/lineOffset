@@ -1,4 +1,4 @@
-lineoffset.js [![GitHub release (latest by date)](https://img.shields.io/github/v/release/cangshudada/lineOffset.svg?style=flat-square)](https://github.com/cangshudada/lineOffset/releases) [![npm](https://img.shields.io/npm/v/line2offset.svg?style=flat-square)](https://www.npmjs.com/package/line2offset) [![GitHub file size in bytes](https://img.shields.io/github/size/cangshudada/lineoffset/dist/lineOffset.min.js?style=flat-square)](https://github.com/cangshudada/lineOffset/tree/master/dist) [![GitHub](https://img.shields.io/github/license/cangshudada/lineOffset?style=flat-square)](https://github.com/cangshudada/lineOffset/blob/master/LICENSE)
+lineOffset.js [![GitHub release (latest by date)](https://img.shields.io/github/v/release/cangshudada/lineOffset.svg?style=flat-square)](https://github.com/cangshudada/lineOffset/releases) [![npm](https://img.shields.io/npm/v/line2offset.svg?style=flat-square)](https://www.npmjs.com/package/line2offset) [![GitHub file size in bytes](https://img.shields.io/github/size/cangshudada/lineoffset/dist/lineOffset.min.js?style=flat-square)](https://github.com/cangshudada/lineOffset/tree/master/dist) [![GitHub](https://img.shields.io/github/license/cangshudada/lineOffset?style=flat-square)](https://github.com/cangshudada/lineOffset/blob/master/LICENSE)
 ===
 
 ##### ⚙A tool that takes a line and returns a line at offset by the specified offset.
@@ -19,7 +19,7 @@ yarn add --save line2offset
 ```
 
 ```html
-<script src="lineoffset.min.js"></script>
+<script src="lineOffset.min.js"></script>
 ```
 
 
